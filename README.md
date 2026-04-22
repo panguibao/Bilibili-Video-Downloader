@@ -7,4 +7,4 @@
 [哔哩哔哩视频下载器](https://github.com/panguibao/Bilibili-Video-Downloader/releases/tag/Bilibili-Video-Downloader)
 
 ## 界面演示
-![界面演示](https://raw.githubusercontent.com/panguibao/Bilibili-Video-Downloader/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8.png)
+<img src="https://raw.githubusercontent.com/panguibao/Bilibili-Video-Downloader/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8.png" width="100%" />
